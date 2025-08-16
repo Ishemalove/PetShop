@@ -97,14 +97,3 @@ assert.equal(adopter, expectedAdopter, "The owner of the adopted pet should be t
 Test files are located in the `/test` directory.
 
 ---
-
-## ❤️ Credits
-
-* Truffle Suite Team
-* Ethereum Foundation
-* MetaMask Team
-* \[Your Name Here 💖]
-
----
-
-Happy coding and happy adopting! 🐕🐈💻✨
